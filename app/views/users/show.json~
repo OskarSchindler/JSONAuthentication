@@ -1,2 +1,0 @@
-items = Item.all
-render :json => items.to_json(:only => [:id, :name]), :callback => params[:callback]

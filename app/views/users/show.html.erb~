@@ -1,7 +1,0 @@
-<p id="notice"><%= notice %></p>
-
-<p>
-  <b>Email:</b>
-  <%= current_user.email %>
-   {"User":{"email":"current_user.email"}}
-</p>
